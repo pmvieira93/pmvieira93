@@ -171,8 +171,8 @@ https://aws-icons.com/
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromfvieira93@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vieira-eng16/)&nbsp;
-[![Credly](https://img.shields.io/badge/Credly-white?style=for-the-badge&logo=Credly)](https://www.credly.com/users/pedro-vieira.eng16/badges)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmvieira93/)&nbsp;
+[![Credly](https://img.shields.io/badge/Credly-white?style=for-the-badge&logo=Credly)](https://www.credly.com/users/pmvieira93/badges)&nbsp;
 
 
 <!-- 
