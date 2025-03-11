@@ -8,9 +8,9 @@
 
 ## 🧑‍💻<b> About Me</b>
 
-🔭 I’m currently working on Critical Techworks & BMW Group as Senior Software Engineer.
+🔭 I’m currently working Five9 as Senior Software Engineer.
 
-🗓️ As a Senior Software Engineer, I can take on any task from the backlog, assist the Scrum Master and Product Owner in managing the Backlog Items and the Sprint itself. I actively support and help the team to complete their tasks. I also provide training and help to grow the new members of the team.
+🗓️ As a Senior Software Engineer, I can take on any task from the backlog, assist the Manager in managing the Backlog Items and the Sprint itself. I actively support and help the team to complete their tasks. 
 
 💪 I'm a problem solver, and I can manage any type of problem that I face on a daily basis, and find a solution. Even if, most of the time, it's not the perfect one. If the time is limited, I solve it, but I keep in mind to find the best solution to iterate on it.
 
