@@ -8,7 +8,7 @@
 
 ## 🧑‍💻<b> About Me</b>
 
-🔭 I’m currently working Five9 as Senior Software Engineer.
+🔭 I’m currently working at Five9 as Senior Software Engineer.
 
 🗓️ As a Senior Software Engineer, I can take on any task from the backlog, assist the Manager in managing the Backlog Items and the Sprint itself. I actively support and help the team to complete their tasks. 
 
